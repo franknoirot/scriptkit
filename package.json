@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@johnlindquist/kit": "file:../.kit",
+    "trash": "^8.1.0"
+  }
+}
